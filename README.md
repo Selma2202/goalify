@@ -6,7 +6,7 @@ localhost:8000/index
 localhost:8000/login
 
 
-1.######################################################################
+1.######################################################################<br>
 
 The test users that excist in the database are:
 
@@ -14,12 +14,12 @@ Email-adres: 	brampijper@gmail.com
 Password: 	a
 
 
-2.######################################################################
+2.######################################################################<br>
 This is also an admin account with the rights to add and edit goals at:
 localhost:8000/admin
 
 
-3.######################################################################
+3.######################################################################<br>
 When the user is logged in it is possible to change:
 	1. User password
 	2. Emailadress
@@ -28,7 +28,7 @@ When the user is logged in it is possible to change:
 	5. Birthday
 
 
-4.###################################################################### 
+4.######################################################################<br>
 To complete more goals the user can look at the goal overview map to see where
 the different goals are located. 
 	1. A couple of goals are created nearby the B.building so it's
@@ -39,12 +39,12 @@ the different goals are located.
 	4. Also see completed goals on the map.
 
 
-5.######################################################################
+5.######################################################################<br>
 The user can check the leaderboard for the current ranking against other players
 and which team is leading at the moment. 
 
 
-6.######################################################################
+6.######################################################################<br>
 Features for in the future:
 
 Link to our google docs with all the features and workplan: 
