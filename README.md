@@ -7,6 +7,7 @@ localhost:8000/login
 
 
 1.######################################################################
+
 The test users that excist in the database are:
 
 Email-adres: 	brampijper@gmail.com
@@ -18,7 +19,7 @@ This is also an admin account with the rights to add and edit goals at:
 localhost:8000/admin
 
 
-3. ######################################################################
+3.######################################################################
 When the user is logged in it is possible to change:
 	1. User password
 	2. Emailadress
@@ -27,7 +28,7 @@ When the user is logged in it is possible to change:
 	5. Birthday
 
 
-4. ###################################################################### 
+4.###################################################################### 
 To complete more goals the user can look at the goal overview map to see where
 the different goals are located. 
 	1. A couple of goals are created nearby the B.building so it's
